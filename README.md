@@ -1,7 +1,10 @@
-<img src="logo.png" width="48">
-# http://cgi.cs.mcgill.ca/~hsalee/
-My personal website!
-Made using SkeletonCSS.
+![](logo.png | width = 100)
 
-Get it here:
-`http://getskeleton.com/`
+# Personal Website
+/play flawless
+My personal website, currerntly hosted at `http://cgi.cs.mcgill.ca/~hsalee/`.
+
+Made using SkeletonCSS. Get it here `http://getskeleton.com/`
+
+~ :shipit:
+
