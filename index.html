@@ -31,6 +31,13 @@
   <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
   <link rel="stylesheet" href="css/github-prettify-theme.css">
   <script src="js/site.js"></script>
+  <script type="text/javascript">
+  $(document).ready(function(){
+    $(".slide-toggle").click(function(){
+      $(".box").slideToggle();
+    });
+  });
+  </script>
 
 
   <!-- Favicon
@@ -236,6 +243,10 @@
         </p>
         Procedia Engineering, 78, 165-172 | in HumTech 2014.<br>
         <a class="icon" href="pdfs/humtech2014_SaleemXuRuths_SIGNATURE.pdf"><i class="fa fa-file-pdf-o fa-lg" aria-hidden="true"></i></a>
+        <button type="button" class="slide-toggle">Some Results</button>
+        <div class="box">
+          <div class="box-inner">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Vestibulum id metus ac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet sagittis. In tincidunt orci sit amet elementum vestibulum. Vivamus fermentum in arcu in aliquam. Quisque aliquam porta odio in fringilla. Vivamus nisl leo, blandit at bibendum eu, tristique eget risus. Integer aliquet quam ut elit suscipit, id interdum neque porttitor.</div>
+        </div>
       </p>
     </div>
 

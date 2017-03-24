@@ -278,11 +278,17 @@ a.icon:hover {
   border-radius: 1rem;
   padding: 1rem 1rem 1rem 1rem;
   font-size: 1.3rem;
-  background-color:#EBF5FB;
-}
+  background-color:#EBF5FB;}
 .highlightit {
   border: 1px solid #FF5733;
   border-radius: 1rem;
   padding: 1rem 1rem 1rem 1rem;
-  background-color:#FFDECF;
-}
+  background-color:#FFDECF;}
+.box{
+  border: 1px solid #0FA0CE;
+  border-radius: 1rem;
+  font-size: 1.3rem;
+  background-color:#EBF5FB;
+  display: none;}
+.box-inner{
+  padding: 1rem 1rem 1rem 1rem;}
