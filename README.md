@@ -1,4 +1,4 @@
-![](logo.png | width = 100)
+![](logo.png)
 
 # Personal Website
 /play flawless
