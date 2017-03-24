@@ -243,7 +243,7 @@
   background-image: url('../images/heading.png');
   background-size: cover;
   color: #fff;
-  padding-bottom: 2rem;}
+  padding-bottom: 3rem;}
 .middle {
   text-align: center;}
 .sideheading {
@@ -273,3 +273,16 @@ a.icon:hover {
   text-decoration: none;}
 .bborder {
   border-bottom: 1px solid #eee;}
+.abstract {
+  border: 1px solid #0FA0CE;
+  border-radius: 1rem;
+  padding: 1rem 1rem 1rem 1rem;
+  font-size: 1.3rem;
+  background-color:#EBF5FB;
+}
+.highlightit {
+  border: 1px solid #FF5733;
+  border-radius: 1rem;
+  padding: 1rem 1rem 1rem 1rem;
+  background-color:#FFDECF;
+}
